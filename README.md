@@ -1,0 +1,2 @@
+# Class-Routine-in-C-with-GUI
+In this repository I made a class routine project for my class schedule of Sonargaon University. Classroutine is fully coded in C programming language with Exceptional Graphical User Interface. Classroutine has a extra library "graphics.h". 
